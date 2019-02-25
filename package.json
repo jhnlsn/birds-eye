@@ -1,0 +1,25 @@
+{
+  "name": "birds-eye",
+  "version": "1.0.0",
+  "description": "Script to check internet connectivity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhnlsn/birds-eye.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhnlsn/birds-eye/issues"
+  },
+  "homepage": "https://github.com/jhnlsn/birds-eye#readme",
+  "dependencies": {
+    "config": "^3.0.1",
+    "express": "^4.16.4",
+    "js-yaml": "^3.12.1",
+    "morgan": "^1.9.1"
+  }
+}
